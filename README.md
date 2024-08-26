@@ -8,7 +8,7 @@ ___
 ### Rubric Showcase
 **Rubric Step A: GitLab Repository**
 > Subgroup and Project Created:
-![StepA1-Subgroup](/docs/img/StepA1-SubGroup.PNG)
+![StepA1-Subgroup](StepA1-SubGroup.PNG)
 
 > GitLab Link: https://gitlab.com/wgu-gitlab-environment/student-repos/aroth35/d308-mobile-application-development-android.git
 
@@ -63,7 +63,7 @@ Once on the excursion details screen, the data associated with the excursion wil
 
 **Rubric Step D: Storyboard**
 > The included storyboard demonstrates the flow of the application and includes all menus/screens from part B.
-![StoryBoard_V3](/docs/img/StoryBoard_V3.png)
+![StoryBoard_V3](StoryBoard_V3.png)
 
 **Rubric Step E: Screenshots**
 >Screenshots are provided for the APK under docs>SignedAPK.docx
